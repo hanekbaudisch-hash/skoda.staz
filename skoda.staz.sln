@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skoda.staz", "skoda.staz.csproj", "{667E9930-E8DC-45F9-8639-C9A551EB06DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{667E9930-E8DC-45F9-8639-C9A551EB06DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667E9930-E8DC-45F9-8639-C9A551EB06DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667E9930-E8DC-45F9-8639-C9A551EB06DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667E9930-E8DC-45F9-8639-C9A551EB06DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64066FA3-9BBA-40FF-BC29-5AC98364555A}
+	EndGlobalSection
+EndGlobal
